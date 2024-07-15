@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teaunair.github.io/sitemap
+Sitemap: https://teaunair.github.io/app/sitemap
+Sitemap: https://teaunair.github.io/assets/sitemap
+Sitemap: https://teaunair.github.io/css/sitemap
+Sitemap: https://teaunair.github.io/includes/sitemap
+Sitemap: https://teaunair.github.io/item/sitemap
+Sitemap: https://teaunair.github.io/src/sitemap
